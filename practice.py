@@ -1,8 +1,8 @@
 print('Basic Practice of Python')
 print()
-x=int(input('Enter the first number :'))
-y=int(input('Enter the second number :'))
-print('The sum of the numbers is :',x+y)
+#x=int(input('Enter the first number :'))
+#y=int(input('Enter the second number :'))
+#print('The sum of the numbers is :',x+y)
 
 #a,b,c=[float(x) for x in input('Enter 3 numbers with , seperation:').split(',')]
 #print('The sum of the numbers is :',a+b+c)
